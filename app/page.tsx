@@ -1,4 +1,3 @@
-import Head from "next/head";
 import LoadMore from "../components/LoadMore";
 import { fetchAnime } from "./action";
 
